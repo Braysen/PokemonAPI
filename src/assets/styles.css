@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+    /*---Colors*/
+    --col-black-dark: #242424;
+    --col-black-light: #303134;
+    --col-light-blue: #539BF5;
+    --col-gray: #CDD9E5;
+    --col-red: #DC281E;
+    --col-sky-blue: #6dd5ed;
+    --col-purple: #8E2DE2;
+    --col-green: #38ef7d;
+    --col-brown: #7a2828;
+    --col-yellow: #FFC107;
+}
+
+body{
+    background: var(--col-black-dark);
+}
